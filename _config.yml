@@ -57,8 +57,6 @@ show_drafts: nil
 limit_posts: 0
 highlighter:    true
 
-relative_permalinks: true
-
 permalink:     pretty
 paginate_path: 'page:num'
 paginate: 10
