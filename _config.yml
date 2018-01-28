@@ -1,6 +1,6 @@
 # Base blog settings
 baseurl                      : ""
-url                          : "http://drewroberts.github.io"
+url                          : "https://drewroberts.github.io"
 
 blog:
   title                      : dactl
