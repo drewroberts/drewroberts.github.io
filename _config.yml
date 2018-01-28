@@ -24,10 +24,12 @@ blog:
 author:
   fullname                  : Drew Roberts
   rss                       : false
-  mail                      : github@drewroberts.com
-  twitter                   : DrewRoberts
   github                    : DrewRoberts
+  facebook                  : DrewRoberts
+  linkedin                  : DrewRoberts
+  twitter                   : DrewRoberts
   youtube                   : DrewRoberts
+  mail                      : github@drewroberts.com
   google_analytics          : # 'UA-XXXXXXXX-X'
   photo                     : "uploads/me2.png"
   photo2x                   : "uploads/me.png"
