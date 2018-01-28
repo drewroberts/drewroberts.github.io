@@ -7,7 +7,7 @@ blog:
   description                : "this should contain a proper description"
 
 # Layout configuration
-  logo_path                  : "assets/img/dactl.svg" # path to logo file
+  logo_path                  : "assets/img/logo.svg" # path to logo file
   search_path                : "drewroberts.github.io"
   hero_layout                : true # turn on hero layout for blog and posts
   hero_placeholder           : "assets/img/generic_hero.jpg" # placeholder for hero image
@@ -23,8 +23,8 @@ blog:
 # Author info
 author:
   fullname                  : Drew Roberts
-  rss                       : false # generate RSS feed and show it's icon in header
-  mail                      : github@drewroberts.com # change to your e-mail address
+  rss                       : false
+  mail                      : github@drewroberts.com
   twitter                   : DrewRoberts
   github                    : DrewRoberts
   youtube                   : DrewRoberts
