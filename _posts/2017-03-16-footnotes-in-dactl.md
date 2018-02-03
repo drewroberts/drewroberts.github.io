@@ -2,8 +2,8 @@
 layout: post
 title: Footnotes
 tags:
-  - dactl
-  - howto
+  - laravel
+  - react
 hero: https://source.unsplash.com/collection/228632/
 overlay: red
 ---
@@ -28,7 +28,7 @@ For dactl's purposes I have modified Barefoot's default stylesheet:
 
 ## How to add footnotes to your posts
 Adding footnotes to your posts is really easy.[^1]  
-First, you need to insert a numbered footnote mark in your post to define where it should show up - it looks like this: 
+First, you need to insert a numbered footnote mark in your post to define where it should show up - it looks like this:
 ```markdown
 Adding footnotes to your posts is really easy.[^1]
 ```

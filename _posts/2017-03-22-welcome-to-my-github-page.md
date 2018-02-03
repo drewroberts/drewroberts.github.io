@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Welcome to dactl!"
+title:  "Welcome to my GitHub page!"
 tags:
-  - dactl
-  - jekyll
+  - laravel
+  - react
 hero: https://source.unsplash.com/collection/430471/
 overlay: red
 published: true

@@ -2,8 +2,8 @@
 layout: post
 title: Post excerpts and leading paragraphs
 tags:
-  - dactl
-  - howto
+  - laravel
+  - react
 hero: 'https://source.unsplash.com/collection/261936/'
 overlay: blue
 published: true
